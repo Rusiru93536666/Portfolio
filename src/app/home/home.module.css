@@ -1,0 +1,75 @@
+
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .item {
+    float: right;
+    font-size: 20px;
+    font-weight: 400;
+    font-size: 17px;
+    font-weight: 400;
+  }
+  
+  .item a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .item a:hover:not(.mainlink) {
+    color: #1de8f2;
+  }
+  
+  .mainitem{
+    float: left;
+    padding-left: 10px;
+  }
+
+  .mainitem a{
+    color: #1de8f2;
+    font-size: 23px;
+    font-weight: 600;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  .name{
+    float: left;
+    padding-top: 100px;
+    padding-left: 150px;
+  }
+
+  .head{
+    color: aliceblue;
+    font-size: 80px;
+  }
+
+  .subheding{
+    font-size: 17px;
+    color: rgb(92, 234, 246);
+  }
+
+  .img{
+    float: right;
+    color: aliceblue;
+  }
+
+  .myimg{
+    padding-right: 100px;
+    width: 500px;
+  }
